@@ -3,6 +3,6 @@
 - 🌱 I’m currently persuing Btech. 3rd yr. under the domain of CSE
 - 📫 How to reach me ...srijan.jamshedpur@gmail.com
                           6205592323
-- 📫 Resume Link - https://drive.google.com/file/d/19jaqiKMJ7DjQF0ZNcI4mocqAhHputmHI/view?usp=sharing
+- 📫 Resume Link - https://drive.google.com/file/d/1YmwDMiLOT5aor42nN1b8iL6RvfIPzbUa/view?usp=sharing
 - 📫 Portfolio - https://srijan99jsr.github.io/Portfolio/
 
